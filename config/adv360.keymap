@@ -64,7 +64,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans            &macro_lang_1                                                     &macro_lang_3  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &macro_lang_2     &trans  &trans                  &trans  &trans  &macro_lang_4  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans                                      &trans                  &trans                         &trans  &trans  &trans   &trans   &trans   &trans
- &trans  &trans  &trans  &trans  &trans                        &kp SPACE  &kp ENTER  &trans                  &trans  &trans         &trans          &trans  &trans   &trans   &trans   &trans
+ &trans  &trans  &trans  &trans  &trans                        &kp SPACE  &kp ENTER  &trans                  &trans  &trans      &kp ENTER          &trans  &trans   &trans   &trans   &trans
             >;
         };
 

@@ -38,29 +38,29 @@ macro_option_space: macro_option_space{
 compatible = "zmk,behavior-macro";
 label = "macro_option_space";
 #binding-cells = <0>;
-bindings = <&kp LALT>, <&kp SPACE>;
+bindings = <&macro_press &kp LALT>, <&macro_tap &kp SPACE>, <&macro_release &kp LALT>;
 };
 macro_lang_1: macro_lang_1{
 compatible = "zmk,behavior-macro";
 label = "macro_lang_1";
 #binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp 1>;
+bindings = <&macro_press LCTRL>, <&macro_tap &kp 1> <&macro_release &kp LCTRL>;
 };
 macro_lang_2: macro_lang_2{
 compatible = "zmk,behavior-macro";
 label = "macro_lang_2";
 #binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp 2>;
+bindings = <&macro_press LCTRL>, <&macro_tap &kp 2> <&macro_release &kp LCTRL>;
 };
 macro_lang_3: macro_lang_3{
 compatible = "zmk,behavior-macro";
 label = "macro_lang_3";
 #binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp 3>;
+bindings = <&macro_press LCTRL>, <&macro_tap &kp 3> <&macro_release &kp LCTRL>;
 };
 macro_lang_4: macro_lang_4{
 compatible = "zmk,behavior-macro";
 label = "macro_lang_4";
 #binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp 4>;
+bindings = <&macro_press LCTRL>, <&macro_tap &kp 4> <&macro_release &kp LCTRL>;
 };

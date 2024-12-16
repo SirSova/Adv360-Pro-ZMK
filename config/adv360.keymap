@@ -84,7 +84,7 @@
     &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                               &trans  &trans  &trans  &trans  &trans  &trans  &trans
     &trans  &trans  &trans  &trans  &trans  &trans               &trans        &trans          &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
     &trans  &trans  &trans  &trans  &trans  &trans                                      &kp LEFT_WIN                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &kp LCTRL   &mo 2  &trans  &trans  &trans                    &kp SPACE  &kp LEFT_ALT  &kp BACKSPACE                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &kp LCTRL  &trans  &trans  &trans  &trans                    &kp SPACE  &kp LEFT_ALT  &kp BACKSPACE                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 

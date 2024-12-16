@@ -80,11 +80,11 @@
 
         layer_Windows {
             bindings = <
-    &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                               &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                               &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans               &trans        &trans          &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans                                      &kp LEFT_WIN                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &kp LCTRL  &trans  &trans  &trans  &trans                    &kp SPACE  &kp LEFT_ALT  &kp BACKSPACE                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                   &trans            &trans         &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                                             &kp LEFT_WIN                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp LCTRL  &trans  &tog 6  &trans  &trans                    &kp BACKSPACE  &kp LEFT_CONTROL  &kp LEFT_ALT                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
@@ -95,6 +95,16 @@
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans   &trans   &trans
+            >;
+        };
+
+        layer_Windows_Games {
+            bindings = <
+    &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                            &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                            &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans               &trans     &trans          &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                                  &kp BACKSPACE                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp LCTRL  &trans  &trans  &trans  &trans                    &kp SPACE  &kp LCTRL   &kp LEFT_ALT                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 

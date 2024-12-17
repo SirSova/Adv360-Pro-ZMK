@@ -101,8 +101,8 @@
         layer_Windows_Games {
             bindings = <
     &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                            &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                            &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans               &trans     &trans          &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                &kp Y                                                            &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                &kp H     &trans          &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
     &trans  &trans  &trans  &trans  &trans  &trans                                  &kp BACKSPACE                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
  &kp LCTRL  &trans  &trans  &trans  &trans                    &kp SPACE  &kp LCTRL   &kp LEFT_ALT                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;

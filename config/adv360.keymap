@@ -80,11 +80,11 @@
 
         layer_Windows {
             bindings = <
-    &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans                   &trans            &trans         &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans                                             &kp LEFT_WIN                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &kp LCTRL  &trans   &to 6  &trans  &trans                    &kp BACKSPACE  &kp LEFT_CONTROL  &kp LEFT_ALT                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans                   &trans                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans                   &trans                                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans                   &trans            &trans         &mo 2                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans                                             &kp LEFT_WIN                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp LCTRL  &kp GRAVE   &to 6  &trans  &trans                    &kp BACKSPACE  &kp LEFT_CONTROL  &kp LEFT_ALT                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
@@ -100,11 +100,11 @@
 
         layer_Windows_Games {
             bindings = <
-    &trans  &trans  &trans  &trans  &trans  &trans               &trans                                                                  &trans  &trans          &trans          &trans           &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans                &kp Y                                                                  &trans  &trans          &trans          &trans           &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans                &kp H     &trans          &mo 2                  &kp LEFT_WIN  &trans  &trans  &trans          &trans          &trans           &trans  &trans  &trans
-    &trans  &trans  &trans  &trans  &trans  &trans                                  &kp BACKSPACE                        &trans                  &trans          &trans    &kp UP_ARROW           &trans  &trans  &trans
- &kp LCTRL  &trans   &to 4  &trans  &trans                    &kp SPACE  &kp LCTRL   &kp LEFT_ALT                        &trans  &trans  &trans          &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans               &trans                                                            &trans  &trans          &trans          &trans           &trans  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans                &kp Y                                                            &trans  &trans          &trans          &trans           &trans  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans                &kp H     &trans   &kp LEFT_WIN                  &trans  &trans  &trans  &trans          &trans          &trans           &trans  &trans  &trans
+    &trans     &trans  &trans  &trans  &trans  &trans                                  &kp BACKSPACE                  &trans                  &trans          &trans    &kp UP_ARROW           &trans  &trans  &trans
+ &kp LCTRL  &kp GRAVE   &to 4  &trans  &trans                    &kp SPACE  &kp LCTRL   &kp LEFT_ALT                  &trans  &trans  &trans          &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
             >;
         };
 

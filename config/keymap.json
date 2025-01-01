@@ -49,11 +49,11 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans",  "&trans",  "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",  "&trans",  "&trans"
     ], [
-          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                                       "&trans", "&trans",         "&trans",         "&trans",          "&trans", "&trans", "&trans",
-          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",               "&kp Y",                                                                       "&trans", "&trans",         "&trans",         "&trans",          "&trans", "&trans", "&trans",
-          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",               "&kp H",    "&trans",  "&kp LEFT_WIN",                     "&trans", "&trans", "&trans", "&trans",         "&trans",         "&trans",          "&trans", "&trans", "&trans",
-          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",                                     "&kp BACKSPACE",                     "&trans",                     "&trans",         "&trans",   "&kp UP_ARROW",          "&trans", "&trans", "&trans",
-       "&kp LCTRL", "&kp GRAVE",  "&to 4", "&trans", "&trans",                     "&kp SPACE", "&kp LCTRL",  "&kp LEFT_ALT",                     "&trans", "&trans", "&trans",           "&kp LEFT_ARROW", "&kp DOWN_ARROW", "&kp RIGHT_ARROW", "&trans", "&trans"
+          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                                       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",               "&kp Y",                                                                       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",               "&kp H",    "&trans",  "&kp LEFT_WIN",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+          "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",                                     "&kp BACKSPACE",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&kp LCTRL", "&kp GRAVE",  "&to 4", "&trans", "&trans",                     "&kp SPACE", "&kp LCTRL",  "&kp LEFT_ALT",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
